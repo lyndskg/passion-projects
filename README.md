@@ -6,6 +6,6 @@
 
 ## Projects
 
-- [ ] **1.** [autopopper](https://github.com/lyndskg/autopopper)
+- [ ] &nbsp; **1.** [autopopper](https://github.com/lyndskg/autopopper)
 - [ ] 
 
