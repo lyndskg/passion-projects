@@ -13,7 +13,6 @@
 7. [ADHDExec](https://github.com/lyndskg/ADHDExec)
 8. [ChatGPT4Me](https://github.com/lyndskg/ChatGPT4Me)
 7. [ChatGPT4Mac](https://github.com/lyndskg/ChatGPT4Mac)
-8. 
 9. [lyndseygupiao](https://github.com/lyndskg/lyndseygupiao)
 10. [spearmint](https://github.com/lyndskg/spearmint)
 23. [re-tired](https://github.com/lyndskg/re-tired)
