@@ -1,3 +1,3 @@
 # Welcome
 
-[autopopper](a href="https://github.com/lyndskg/autopopper")
+(a href="https://github.com/lyndskg/autopopper")[autopopper]
