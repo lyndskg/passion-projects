@@ -6,6 +6,6 @@
 
 ## Projects
 
-- [ ] &nbsp; 1. &nbsp; [**autopopper**](https://github.com/lyndskg/autopopper)
-<h3> - [ ] &nbsp; 1. &nbsp; <a href="https://github.com/lyndskg/autopopper">autopopper</a></h3>
+1. &nbsp; [**autopopper**](https://github.com/lyndskg/autopopper) ![](https://geps.dev/progress/100) ✓
+ - [ ] &nbsp; 1. &nbsp; <a href="https://github.com/lyndskg/autopopper">autopopper</a></h3>
 
