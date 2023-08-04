@@ -12,7 +12,7 @@
 6. [spearmint](https://github.com/lyndskg/spearmint)
 7. [fxck-karma](https://github.com/lyndskg/fxck-karma)
 8. [1-800-uncle-sam](https://github.com/lyndskg/1-800-uncle-sam)
-9. [g8keep](
+9. [g8keep](https://github.com/lyndskg/g8keep)
 10. [ subtitle generator thing ](
 11. [optimaLEET](https://github.com/lyndskg/optimaLEET)
 12. [IFTTT4PC](https://github.com/lyndskg/IFTTT4PC)
