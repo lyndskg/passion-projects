@@ -4,7 +4,7 @@
 
 [1. autopopper](https://github.com/lyndskg/autopopper)
 
-## Projects
+### Projects
 
 1. [autopopper](https://github.com/lyndskg/autopopper) ![](https://geps.dev/progress/100) ✓
  - [ ] &nbsp; 1. &nbsp; <a href="https://github.com/lyndskg/autopopper">autopopper</a></h3>
