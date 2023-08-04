@@ -6,7 +6,7 @@
 
 1. [phish-filibusterer](https://github.com/lyndskg/phish-filibusterer)
 2. [12ftandunder.io](https://github.com/lyndskg/12ftandunder.io)
-3. [lunar-logic](
+3. [lunar-logic](https://github.com/lyndskg/lunar-logic)
 4. [ADHDExec](https://github.com/lyndskg/ADHDExec)
 5. [ChatGPT4Me](https://github.com/lyndskg/ChatGPT4Me)
 6. [spearmint](https://github.com/lyndskg/spearmint)
