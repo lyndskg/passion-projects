@@ -66,7 +66,7 @@
 17. [optimaLEET](https://github.com/lyndskg/optimaLEET)
 18. [MLeet](https://github.com/lyndskg/MLeet)
 23. [shout-into-the-ether](https://github.com/lyndskg/shout-into-the-ether)
-24. [lesprit-de-lescalier](ttps://github.com/lyndskg/lesprit-de-lescalier)
+24. [lesprit-de-lescalier](https://github.com/lyndskg/lesprit-de-lescalier)
 26. [no-phones-while-dining](https://github.com/lyndskg/no-phones-while-dining)
 27. [auto-resy](https://github.com/lyndskg/auto-resy)
 29. [note-sync](https://github.com/note-sync)
