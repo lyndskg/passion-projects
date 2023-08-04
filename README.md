@@ -17,52 +17,48 @@
 10. [spearmint](https://github.com/lyndskg/spearmint)
 23. [re-tired](https://github.com/lyndskg/re-tired)
 24. [1-800-uncle-sam](https://github.com/lyndskg/1-800-uncle-sam)
-  
 21. [reselling-fees](https://github.com/lyndskg/reselling-fees)
 12. [fxck-karma](https://github.com/lyndskg/fxck-karma)
 17. [delivery-or-nah](https://github.com/lyndskg/delivery-or-nah)
 18. [classpass-or-nah](https://github.com/lyndskg/classpass-or-nah)
-
-    
 17. [IFTTT4PC](https://github.com/lyndskg/IFTTT4PC)
 20. [toybox](https://github.com/lyndskg/toybox)
 21. [homerebrewer](https://github.com/lyndskg/homerebrewer)
-
 25. [MetaMix](https://github.com/lyndskg/MetaMix)
 26. [ytconv3rt3r](https://github.com/lyndskg/ytconv3rt3r)
 27. [spotify-to-mp3-xor-wav](https://github.com/lyndskg/spotify-to-mp3-xor-wav)
 28. [yt-soundcloud-spotify-to-mixing-software](https://github.com/lyndskg/yt-soundcloud-spotify-to-mixing-software)
 29. [what-to-mix-next](https://github.com/lyndskg/what-to-mix-next)
 35. [volume-vault](https://github.com/lyndskg/volume-vault)
-  
-36. [meta-bookclub](https://github.com/lyndskg/meta-bookclub)
-37. [meta-foodclub](https://github.com/lyndskg/meta-foodclub)
-38. [meta-nightclub](https://github.com/lyndskg/meta-nightclub)
-39. [meta-filmclub](https://github.com/lyndskg/meta-filmclub)
-
-40. [free4all4streaming4free](https://github.com/lyndskg/free4all4streaming4free)
+36. [libgen-tor](https://github.com/lyndskg/libgen-tor)
+37. [meta-bookclub](https://github.com/lyndskg/meta-bookclub)
+38. [meta-foodclub](https://github.com/lyndskg/meta-foodclub)
+39. [meta-nightclub](https://github.com/lyndskg/meta-nightclub)
+40. [meta-filmclub](https://github.com/lyndskg/meta-filmclub)
+41. [free4all4streaming4free](https://github.com/lyndskg/free4all4streaming4free)
 11. [ subtitle generator thing ](
 37. [AutoSubber](https://github.com/lyndskg/AutoSubber)
 38. [AutoDubber](https://github.com/lyndskg/AutoDubber)
 39. [AutoSubSync](https://github.com/lyndskg/AutoSubSync)
 40. [AutoSubFinder](https://github.com/lyndskg/AutoSubFinder)
-
-41. [markdown-template](https://github.com/lyndskg/markdown-template)
-42. [MakeItCpp](https://github.com/lyndskg/MakeItCpp)
-43. [emperor-of-sofas](https://github.com/lyndskg/emperor-of-sofas)
+41. [emperor-of-sofas](https://github.com/lyndskg/emperor-of-sofas)
 44. [website-template](https://github.com/lyndskg/website-template)
-
-45. [CMakeMe](https://github.com/lyndskg/CMakeMe)
+42. [markdown-template](https://github.com/lyndskg/markdown-template)
+43. [MakeItCpp](https://github.com/lyndskg/MakeItCpp)
+46. [CMakeMe](https://github.com/lyndskg/CMakeMe)
 44. [CMake2Make](https://github.com/lyndskg/CMake2Make)
-
-45. [si-guardiAIn](https://github.com/lyndskg/si-guardiAIn)
+45. [hc-ide](https://github.com/lyndskg/hc-ide)
+46. [si-guardiAIn](https://github.com/lyndskg/si-guardiAIn)
 
 31. [autopopper](https://github.com/lyndskg/autopopper)
 32. [lazyposhmark](https://github.com/lyndskg/lazyposhmark)
 14. [g8keep](https://github.com/lyndskg/g8keep)
-15. [optimaLEET](https://github.com/lyndskg/optimaLEET)
+15. [a-wiki-a-day](https://github.com/lyndskg/a-wiki-a-day)
+16. [optimaLEET](https://github.com/lyndskg/optimaLEET)
 23. [shout-into-the-ether](https://github.com/lyndskg/shout-into-the-ether)
-24. [the-punisher](https://github.com/lyndskg/the-punisher)
+24. [lesprit-de-lescalier](ttps://github.com/lyndskg/lesprit-de-lescalier)
+25. [no-phones-while-dining](https://github.com/lyndskg/no-phones-while-dining)
+26. [the-punisher](https://github.com/lyndskg/the-punisher)
 
 
 
