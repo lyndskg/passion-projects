@@ -7,10 +7,16 @@
 2. [phish-filibusterer](https://github.com/lyndskg/phish-filibusterer)
     - anti-phishing software. fuck zelle scams. gonna prevent them from happening (legally), but if it does: gonna get them back (legally), report them (legally), and penalize them (legally). 
 4. [your-pw-sucks](https://github.com/lyndskg/your-pw-sucks)
-    - use John the Ripper and other password crackers based on canonical common/vulnerable password lists
+    - use John the Ripper and other password crackers based on canonical common/vulnerable password lists to try and crack users' password(s) based on user-provided info
+       - if password is crackable, guarantee that it will be safely disposed of; suggest far safer ones that are way better than Apple's random ass strong passwords
     - incorporate regex??
 6. [snoopy](https://github.com/lyndskg/snoopy)
-    - tracks any and all history once ML-trained alien keystroke is detected  
+    - tracks any and all history once ML-trained alien keystroke is detected
+    > - Recognizes and sets default  Keystrokes for default users
+    > - starts recording keystroke pattern once unusual data begins occuring
+    > - fine-tunes its model any time a statistically similar keystroke is used from that point on
+    > - finalizes on 2nd alien keystroke and tells default user and allows them to name the alien keystroke after alien.
+    > - Captures data of all this to prove to alien  
 8. [third-eye](https://github.com/lyndskg/third-eye)
     - buzzword-activated camcorder for macOS
 
@@ -44,15 +50,19 @@
 15. [spearmint](https://github.com/lyndskg/spearmint)
    - budgeter app for macOS and iOS and deployed as web app. meant for ppl too stupid to use Mint (like me)
 23. [re-tired](https://github.com/lyndskg/re-tired)
-   - 401k/Roth IRA contribution calculator 
+    - max 401k/Roth IRA contribution calculator
+    - Inputs: household TC, annual/monthly salary, pay schedule, tax withholdings/exemptions and other W-9 info, age, # of dependents, state of residence/employment, state income tax
 24. [1-800-uncle-sam](https://github.com/lyndskg/1-800-uncle-sam)
    - U.S. income tax (re)calculator, enabling users to adjust their annual total tax liability or calculate expected tax percentages for alternate revenue streams
 21. [reselling-fees](https://github.com/lyndskg/reselling-fees)
    - GUI w/ calculator for Depop, Grailed, StockX, TheRealReal, Vestiare Collective, Poshmark, Mercari, eBay, etc.
 12. [fxck-karma](https://github.com/lyndskg/fxck-karma)
    - "Can I afford this?"
+   - considers net worth (and liquidity), annual salary or net profit, % tax bracket, state of employment/residence, Marginal and total utility of good calculated based on prev calculations, etc 
 17. [delivery-or-nah](https://github.com/lyndskg/delivery-or-nah)
-   - self explanatory
+   - self explanatory, but...
+   - Checks price in-store vs Instacart/Uber Eats/Doordash/Gopuff/Shipt/Whatever tf to let you know if it’d be cheaper to buy in-store vs Instacart based on cart items (obv), state of residence to which groceries are to be delivered, tax rate of said state, user inputted tip in $ or % (defaults to a certain %), etc
+    - Enhanced: time of day, day of week, hourly salary, Uber/lyft rates, roundtrip commute time (walk/bike/scooter/bus/train/car), weather (rainy or not), etc
 18. [classpass-or-nah](https://github.com/lyndskg/classpass-or-nah)
    - uses web/data scraping and ML for what seems to be an easy decision. determines whether to book service/class using Classpass based on monthly subscription / per-credit cost, scrapes web for pricing of service direct from retailer/establishment
 
@@ -130,6 +140,7 @@
    - based on Letterboxd, Google, IMDB, RottenTomatoes, etc
 #### <ins>Subtitle shit</ins>
 11. [ subtitle generator thing ](
+    - generates subtitles for movies found via lumpysoft and other index search tools
 37. [AutoSubber](https://github.com/lyndskg/AutoSubber)
    - automatically generates subtitles using NLK
 38. [AutoDubber](https://github.com/lyndskg/AutoDubber)
@@ -149,8 +160,11 @@
 
 ### Coding Shit
 1. [hc-ide](https://github.com/lyndskg/hc-ide)
+    - high contrast IDE themes (cross-compatible) designed specifically for outdoor usage
 48. [alexa-to-mac](https://github.com/lyndskg/alexa-to-mac)
 1. [optimaLEET](https://github.com/lyndskg/optimaLEET)
+   - Leetcode optimal solution implementation answers and visualizations (use 98 proj of code template for visualizations?)
+   - add them one by one when I solve them on leetcode
 18. [MLeet](https://github.com/lyndskg/MLeet)
 #### <ins>Templates</ins>
 42. [markdown-template](https://github.com/lyndskg/markdown-template) ![](https://geps.dev/progress/80) 
@@ -164,6 +178,7 @@
 #### <ins>Tools for programmers</ins>
 1. [homerebrewer](https://github.com/lyndskg/homerebrewer)
 2. [CodeCompare](https://github.com/lyndskg/CodeCompare)
+    - Programming language comparators and pros/cons lists and venn diagrams and visualizations for features such as difficulty to learn, best usages, assess whether it’s worth learning and how long it’ll take to assist user in reaching user’s goals (and if so, generates timeline/gameplan/roadmap/study guide/bootcamp based on EV of effort required to be able to assist) 
 42. [coders-block](https://github.com/lyndskg/coders-block)
   - Generate list of suggested coding projects based on and separated by user-inputted interests using ML
 44. [optimal-tech-stack](https://github.com/lyndskg/coders-block)
@@ -179,18 +194,38 @@
 ### Mental health 
 2. [dsm5gang](https://github.com/lyndskg/dsm5gang) (mental health quizzes; bad results: suicide guardiAIn)
 48. [si-guardiAIn](https://github.com/lyndskg/si-guardiAIn)
+    - Uses ML based on historical data (software usage, search input, time of usage and just general facts/knowledge/info/assumptions to trigger set of suicide prevention events/options/resources/actions when user begins using the OS in manner that via ML, app recognizes as:
+        - being statistically significant, and 
+        - indicating user’s SI, degree of SI, and thus urgency/timeline of action plan
+            - and hence is able to provide the most efficient/effective set of suicide prevention events/options/resources/actions
 #### <ins>Drugs and/or harm reduction<ins>
 1. [test-ur-x](https://github.com/lyndskg/test-ur-x)
+    - free test kits and monetary (or other) incentives for risk mitigation / harm reduction -- on me.
 50. [tattletale](https://github.com/lyndskg/tattletale)
+    - tattles on minors on twitter and social media who are genuinely a threat to their own safety or to public safety
 #### <ins>Self growth or help or whatever</ins>
 52. [myers-briggs-digest](https://github.com/lyndskg/myers-briggs-digest)
-53. [the-punisher](https://github.com/lyndskg/the-punisher)
-54. [blackout4gud](https://github.com/lyndskg/blackout4gud)
-55. [a-wiki-a-day](https://github.com/lyndskg/a-wiki-a-day)
-56. [a-reddit-a-day](https://github.com/lyndskg/a-reddit-a-day)
+    - daily digest based on myers briggs type
+54. [the-punisher](https://github.com/lyndskg/the-punisher)
+    - classical conditioninggggg
+56. [blackout4gud](https://github.com/lyndskg/blackout4gud)
+    - iOS app paying u to keep screen off for diff charities or for urself.
+        - Create general pool gofundme.
+        - Upon app acc creation, users must link valid payment info. 
+        - Upon opening app / starting blackout timer, points accrued based on amt of time from display being turned off until time that phone is unlocked again.
+            - Must specify purpose of using app each session: if for charity, add multiplier to points; if for self, don’t. 
+        - For (just) charity sessions WITH A MULTIPLIER OR PROMO, points will directly converted to $ and donated to gofundme to prevent abuse. 
+        - Pre-defined min-to-point rate generally, but may include promos in future.
+        - Challenges for users: select N hours w/ no phone. If fail, must pay differential points in $, which will be put into Gofundme. If win, will receive some sort of booster or promo or multiplier for N hrs or N+x=N_ hrs or for x hrs
+        - Investors can choose to donate purely to support the cause, or can choose to partake and just donate to either app producer or gofundme using $ or whatever points they earn w/ whatever multiplier they desire.
+
+58. [a-wiki-a-day](https://github.com/lyndskg/a-wiki-a-day)
+59. [a-reddit-a-day](https://github.com/lyndskg/a-reddit-a-day)
 #### <ins>Communication</ins>
 23. [shout-into-the-ether](https://github.com/lyndskg/shout-into-the-ether)
-24. [no-phones-while-dining](https://github.com/lyndskg/no-phones-while-dining)
+    - simple UI that sends messages via text, email to e-addresses belonging to user (or someone that user wants to contact), etc
+    - BUT CAVEAT is that they’re delivered randomly in future like in Co Star
+25. [no-phones-while-dining](https://github.com/lyndskg/no-phones-while-dining)
 
 &nbsp;
 
@@ -203,8 +238,13 @@
 ### Relationships
 24. [lesprit-de-lescalier](https://github.com/lyndskg/lesprit-de-lescalier)
 25. [ldr-luv](https://github.com/lyndskg/ldr-luv)
-26. [relationship-event-tracker](https://github.com/lyndskg/relationship-event-tracker)
-27. [relationship-finance-tracker](https://github.com/lyndskg/relationship-finance-tracker)
+    - ML list generator of personalized date ideas for you and your LDR partner for both in-person and virtual dates
+    - considers duration and time/day of date, zip codes (of both parties, if separate), time zone (of both parties, if separate), etc
+    - Can accept input for, store, and/or assume hobbies/interests/ preferences
+    - Enhanced: class holding all previous date instances w/ variables for overall date rating, sub-category ratings, type of date, location, $$, etc 
+    - Add pics and metadata and shit if virtual, keep record
+27. [relationship-event-tracker](https://github.com/lyndskg/relationship-event-tracker)
+28. [relationship-finance-tracker](https://github.com/lyndskg/relationship-finance-tracker)
 
 &nbsp;
 
@@ -215,7 +255,10 @@
 
 ### Google Chrome extensions
 1. [coupon-coup-coop](https://github.com/lyndskg/coupon-coup-coop)
-2. [autopopper](https://github.com/lyndskg/autopopper) ![](https://geps.dev/progress/65) 
+   - Find REAL coupons for specific thing, filtering out all the expired codes or bs or “no code necessary” shit
+       - esp for ML-flagged webhosts/companies and/or coupon code descriptions, and/or
+       - links that attempt to redirect you to store website whenev u Google search up coupons for that thing 
+3. [autopopper](https://github.com/lyndskg/autopopper) ![](https://geps.dev/progress/65) 
 32. [lazyposhmark](https://github.com/lyndskg/lazyposhmark) ![](https://geps.dev/progress/50) 
 33. [eli5-chrome](https://github.com/lyndskg/eli5-chrome)
 
@@ -229,9 +272,12 @@
 
 ### Connections
 34. [puta4puta](https://github.com/lyndskg/puta4puta)
-35. [g8keep](https://github.com/lyndskg/g8keep)
-36. [twinge](https://github.com/lyndskg/twinge)
-37. [swipe-right](https://github.com/lyndskg/swipe-right)
+    - Help connect girls to promoters, pay pigs, ppl who like feet, sugar daddies/mommies, etc
+    - Pretty privilege and all this shit only exists bc we live in a patriarchy and im not trying to sound like a feminazi but girls should be able to leverage what they want to leverage
+36. [g8keep](https://github.com/lyndskg/g8keep)
+    - Generates list of things to do from sources on Internet given amt of time until event begins, location, cost of attendance / budget (i.e. max price) — as a %, weighted higher if less time til event begins, # of attendees, u and attendees’ interests, etc 
+37. [twinge](https://github.com/lyndskg/twinge)
+38. [swipe-right](https://github.com/lyndskg/swipe-right)
 
 
 &nbsp;
@@ -244,7 +290,8 @@
 
 ### App Enhancements
 30. [note-sync](https://github.com/note-sync)
-31. [GSearchPlus](https://github.com/lyndskg/GSearchPlus)
+    - Enhance Apple Notes to include Gdoc functionalities (esp for shared notes) 
+32. [GSearchPlus](https://github.com/lyndskg/GSearchPlus)
 
 
 &nbsp;
@@ -273,6 +320,7 @@
 44. [better-than-coin-flip](https://github.com/lyndskg/better-than-coin-flip)
 45. [lunar-logic](https://github.com/lyndskg/lunar-logic)
 20. [toybox](https://github.com/lyndskg/toybox)
+    - Mini GUI w toolkit containing functionality to retrieve sources for and run/execute all small programs within app
 
 
 &nbsp;
