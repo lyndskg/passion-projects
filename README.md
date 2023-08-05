@@ -11,9 +11,6 @@
 5. [snoopy](https://github.com/lyndskg/snoopy)
 6. [third-eye](https://github.com/lyndskg/third-eye)
 
-8. [12ftandunder.io](https://github.com/lyndskg/12ftandunder.io)
-9. [lunar-logic](https://github.com/lyndskg/lunar-logic)
-10. [ADHDExec](https://github.com/lyndskg/ADHDExec)
 
 ### Bots 
 12. [ChatGPT4Me](https://github.com/lyndskg/ChatGPT4Me)
@@ -21,9 +18,6 @@
 8. [uwu-bot](https://github.com/lyndskg/uwu-bot)
 9. [im-annoying-a-robot](https://github.com/lyndskg/im-annoying-a-robot)
 10. [posh-a-matic](https://github.com/lyndskg/posh-a-matic)
-
-
-11. [eli5-chrome](https://github.com/lyndskg/eli5-chrome)
 
 ### Finance 
 13. [lyndseygupiao](https://github.com/lyndskg/lyndseygupiao)
@@ -39,6 +33,7 @@
 17. [IFTTT4PC](https://github.com/lyndskg/IFTTT4PC)
 18. [auto-resy](https://github.com/lyndskg/auto-resy)
 19. [TaskHive](https://github.com/lyndskg/TaskHive) (virtual taskrabbit employment platform)
+20. [ADHDExec](https://github.com/lyndskg/ADHDExec)
 
 
 
@@ -55,6 +50,7 @@
 ### Arrrr pirate
 37. [libgen-tor](https://github.com/lyndskg/libgen-tor)
 38. [free4all4streaming4free](https://github.com/lyndskg/free4all4streaming4free)
+39. [12ftandunder.io](https://github.com/lyndskg/12ftandunder.io)
 
 ### ML
 49. [travel-guide-ML](https://github.com/lyndskg/travel-guide-ML)
@@ -112,6 +108,7 @@
 1. [coupon-coup-coop](https://github.com/lyndskg/coupon-coup-coop)
 2. [autopopper](https://github.com/lyndskg/autopopper)
 32. [lazyposhmark](https://github.com/lyndskg/lazyposhmark)
+33. [eli5-chrome](https://github.com/lyndskg/eli5-chrome)
 
 
 ### Connections
@@ -133,6 +130,7 @@
   
 ### Misc Tools
 44. [better-than-coin-flip](https://github.com/lyndskg/better-than-coin-flip)
+45. [lunar-logic](https://github.com/lyndskg/lunar-logic)
 20. [toybox](https://github.com/lyndskg/toybox)
 
   
