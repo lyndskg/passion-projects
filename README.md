@@ -60,7 +60,7 @@
   - Generate list of suggested coding projects based on and separated by user-inputted interests using ML
 44. [optimal-tech-stack](https://github.com/lyndskg/coders-block)
 47. [hc-ide](https://github.com/lyndskg/hc-ide)
-1. [poppin-pills-safely](https://github.com/lyndskg/poppin-pills-safely)
+1. [test-ur-x](https://github.com/lyndskg/test-ur-x)
 2. [dsm5gang](https://github.com/lyndskg/dsm5gang) (mental health quizzes; bad results: suicide guardiAIn)
 48. [si-guardiAIn](https://github.com/lyndskg/si-guardiAIn)
 49. [tattletale](https://github.com/lyndskg/tattletale)
@@ -69,7 +69,8 @@
 1. [blackout4gud](https://github.com/lyndskg/blackout4gud)
 31. [autopopper](https://github.com/lyndskg/autopopper)
 32. [lazyposhmark](https://github.com/lyndskg/lazyposhmark)
-33. [puta4puta](https://github.com/lyndskg/puta4puta)
+33. [posh-a-matic](https://github.com/lyndskg/posh-a-matic)
+34. [puta4puta](https://github.com/lyndskg/puta4puta)
 14. [g8keep](https://github.com/lyndskg/g8keep)
 15. [myers-briggs-digest](https://github.com/lyndskg/myers-briggs-digest)
 16. [a-wiki-a-day](https://github.com/lyndskg/a-wiki-a-day)
@@ -88,6 +89,7 @@
 33. [super-mario-bros-secrets](https://github.com/lyndskg/super-mario-bros-secrets)
 34. [mario-kart-secrets](https://github.com/lyndskg/mario-kart-secrets)
 44. [better-than-coin-flip](https://github.com/lyndskg/better-than-coin-flip)
+45. [uwu-bot](https://github.com/lyndskg/uwu-bot)
 
 
 
