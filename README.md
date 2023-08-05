@@ -14,9 +14,9 @@
 8. [third-eye](https://github.com/lyndskg/third-eye)
     - buzzword-activated camcorder for macOS
 
-<p align="right"><a href="#top">(Back to top)</p>
-
 &nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
       
 ------
 
@@ -32,6 +32,10 @@
 10. [posh-a-matic](https://github.com/lyndskg/posh-a-matic) ![](https://geps.dev/progress/10)
    - automates lots of tasks for Poshmark
 
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
+    
 ------
 
 ### Finance 
@@ -52,6 +56,10 @@
 18. [classpass-or-nah](https://github.com/lyndskg/classpass-or-nah)
    - uses web/data scraping and ML for what seems to be an easy decision. determines whether to book service/class using Classpass based on monthly subscription / per-credit cost, scrapes web for pricing of service direct from retailer/establishment
 
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
+    
 ------
 
 ### Optimization
@@ -64,7 +72,10 @@
 21. [ADHDExec](https://github.com/lyndskg/ADHDExec)
   - tldr; life planner for ppl w ADHD
 
+&nbsp;
 
+<p align="right"><a href="#top">(Back to top)</p>
+    
 ------
 
 ### Music
@@ -83,6 +94,9 @@
 35. [volume-vault](https://github.com/lyndskg/volume-vault)
    - macOS max volume booster
 
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
 
 ------
 
@@ -94,6 +108,11 @@
 40. [12ftandunder.io](https://github.com/lyndskg/12ftandunder.io)
    - checks if paywall can be removed using 12ft.io. will prolly b a google chrome extension
 
+
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
+    
 ------
 
 ### ML
@@ -120,6 +139,10 @@
 40. [AutoSubFinder](https://github.com/lyndskg/AutoSubFinder)
    - automatically finds subtitle track file for corresponding movie 
 
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
+
 
 ------
 
@@ -145,6 +168,11 @@
   - Generate list of suggested coding projects based on and separated by user-inputted interests using ML
 44. [optimal-tech-stack](https://github.com/lyndskg/coders-block)
 
+
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
+
 ------
 
 
@@ -159,9 +187,14 @@
 53. [the-punisher](https://github.com/lyndskg/the-punisher)
 54. [blackout4gud](https://github.com/lyndskg/blackout4gud)
 55. [a-wiki-a-day](https://github.com/lyndskg/a-wiki-a-day)
+56. [a-reddit-a-day](https://github.com/lyndskg/a-reddit-a-day)
 #### <ins>Communication</ins>
 23. [shout-into-the-ether](https://github.com/lyndskg/shout-into-the-ether)
 24. [no-phones-while-dining](https://github.com/lyndskg/no-phones-while-dining)
+
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
 
 
 ------
@@ -173,6 +206,10 @@
 26. [relationship-event-tracker](https://github.com/lyndskg/relationship-event-tracker)
 27. [relationship-finance-tracker](https://github.com/lyndskg/relationship-finance-tracker)
 
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
+
 
 ------
 
@@ -182,6 +219,11 @@
 32. [lazyposhmark](https://github.com/lyndskg/lazyposhmark) ![](https://geps.dev/progress/50) 
 33. [eli5-chrome](https://github.com/lyndskg/eli5-chrome)
 
+
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
+    
 ------
 
 
@@ -191,6 +233,12 @@
 36. [twinge](https://github.com/lyndskg/twinge)
 37. [swipe-right](https://github.com/lyndskg/swipe-right)
 
+
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
+
+    
 ------
 
 
@@ -198,6 +246,11 @@
 30. [note-sync](https://github.com/note-sync)
 31. [GSearchPlus](https://github.com/lyndskg/GSearchPlus)
 
+
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
+    
 ------
 
 
@@ -205,6 +258,13 @@
 33. [game-walkthrough-gen](https://github.com/lyndskg/game-walkthrough-gen)
 34. [super-mario-bros-secrets](https://github.com/lyndskg/super-mario-bros-secrets)
 35. [mario-kart-secrets](https://github.com/lyndskg/mario-kart-secrets)
+36. [gba-emu](https://github.com/lyndskg/gba-emu)
+    - Game boy advance emulator for macOS (as of now &mdash; may extend to iOS and/or Switch). Want to incorporate gamezzzzz 2
+    - Incorporate mods
+
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
 
 
 ------
@@ -214,6 +274,11 @@
 45. [lunar-logic](https://github.com/lyndskg/lunar-logic)
 20. [toybox](https://github.com/lyndskg/toybox)
 
+
+&nbsp;
+
+<p align="right"><a href="#top">(Back to top)</p>
+    
 ------
   
 ## OTHER RANDO IDEAS W/O REPOS YET
@@ -221,7 +286,6 @@
 > - more twitter ai reply bot(s)
 > - sptoify playlist generator
 > - like deezer, transfer from apple music -> spotify and vice vers better
-> - GBA adv emulator with mods, for macOS and/or iOS and/or Switch
 > - stardew allow cross-console co-op farms
 > - horoscope/astrology shit (i'm not into it. plz. but ppl are)
 > - IDE switcher/transferer
