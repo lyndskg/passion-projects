@@ -1,6 +1,4 @@
-# Welcome
-
-
+<a name="top"></a>
 ## Projects
 
 
@@ -16,6 +14,11 @@
 8. [third-eye](https://github.com/lyndskg/third-eye)
     - buzzword-activated camcorder for macOS
 
+<p align="right"><a href="#top">(Back to top)</p>
+
+&nbsp;
+      
+------
 
 ### Bots 
 12. [ChatGPT4Me](https://github.com/lyndskg/ChatGPT4Me)
@@ -28,6 +31,8 @@
    - aggregates all of the useful information in ChatGPT's responses in a convo thread
 10. [posh-a-matic](https://github.com/lyndskg/posh-a-matic) ![](https://geps.dev/progress/10)
    - automates lots of tasks for Poshmark
+
+------
 
 ### Finance 
 13. [lyndseygupiao](https://github.com/lyndskg/lyndseygupiao)
@@ -47,6 +52,7 @@
 18. [classpass-or-nah](https://github.com/lyndskg/classpass-or-nah)
    - uses web/data scraping and ML for what seems to be an easy decision. determines whether to book service/class using Classpass based on monthly subscription / per-credit cost, scrapes web for pricing of service direct from retailer/establishment
 
+------
 
 ### Optimization
 17. [IFTTT4PC](https://github.com/lyndskg/IFTTT4PC)
@@ -59,6 +65,7 @@
   - tldr; life planner for ppl w ADHD
 
 
+------
 
 ### Music
 25. [MetaMix](https://github.com/lyndskg/MetaMix) (update metadata on mixing software)
@@ -76,6 +83,9 @@
 35. [volume-vault](https://github.com/lyndskg/volume-vault)
    - macOS max volume booster
 
+
+------
+
 ### Arrrr pirate
 37. [libgen-tor](https://github.com/lyndskg/libgen-tor)
    - libgen doesn't work on clear net anymore...
@@ -84,6 +94,7 @@
 40. [12ftandunder.io](https://github.com/lyndskg/12ftandunder.io)
    - checks if paywall can be removed using 12ft.io. will prolly b a google chrome extension
 
+------
 
 ### ML
 49. [travel-guide-ML](https://github.com/lyndskg/travel-guide-ML)
@@ -109,6 +120,10 @@
 40. [AutoSubFinder](https://github.com/lyndskg/AutoSubFinder)
    - automatically finds subtitle track file for corresponding movie 
 
+
+------
+
+
 ### Coding Shit
 1. [hc-ide](https://github.com/lyndskg/hc-ide)
 48. [alexa-to-mac](https://github.com/lyndskg/alexa-to-mac)
@@ -130,6 +145,9 @@
   - Generate list of suggested coding projects based on and separated by user-inputted interests using ML
 44. [optimal-tech-stack](https://github.com/lyndskg/coders-block)
 
+------
+
+
 ### Mental health 
 2. [dsm5gang](https://github.com/lyndskg/dsm5gang) (mental health quizzes; bad results: suicide guardiAIn)
 48. [si-guardiAIn](https://github.com/lyndskg/si-guardiAIn)
@@ -145,17 +163,26 @@
 23. [shout-into-the-ether](https://github.com/lyndskg/shout-into-the-ether)
 24. [no-phones-while-dining](https://github.com/lyndskg/no-phones-while-dining)
 
+
+------
+
+
 ### Relationships
 24. [lesprit-de-lescalier](https://github.com/lyndskg/lesprit-de-lescalier)
 25. [ldr-luv](https://github.com/lyndskg/ldr-luv)
 26. [relationship-event-tracker](https://github.com/lyndskg/relationship-event-tracker)
 27. [relationship-finance-tracker](https://github.com/lyndskg/relationship-finance-tracker)
 
+
+------
+
 ### Google Chrome extensions
 1. [coupon-coup-coop](https://github.com/lyndskg/coupon-coup-coop)
 2. [autopopper](https://github.com/lyndskg/autopopper) ![](https://geps.dev/progress/65) 
 32. [lazyposhmark](https://github.com/lyndskg/lazyposhmark) ![](https://geps.dev/progress/50) 
 33. [eli5-chrome](https://github.com/lyndskg/eli5-chrome)
+
+------
 
 
 ### Connections
@@ -164,22 +191,30 @@
 36. [twinge](https://github.com/lyndskg/twinge)
 37. [swipe-right](https://github.com/lyndskg/swipe-right)
 
+------
+
 
 ### App Enhancements
 30. [note-sync](https://github.com/note-sync)
 31. [GSearchPlus](https://github.com/lyndskg/GSearchPlus)
+
+------
 
 
 ### Games
 33. [game-walkthrough-gen](https://github.com/lyndskg/game-walkthrough-gen)
 34. [super-mario-bros-secrets](https://github.com/lyndskg/super-mario-bros-secrets)
 35. [mario-kart-secrets](https://github.com/lyndskg/mario-kart-secrets)
+
+
+------
   
 ### Misc Tools
 44. [better-than-coin-flip](https://github.com/lyndskg/better-than-coin-flip)
 45. [lunar-logic](https://github.com/lyndskg/lunar-logic)
 20. [toybox](https://github.com/lyndskg/toybox)
 
+------
   
 ## OTHER RANDO IDEAS W/O REPOS YET
 > - std testing enforcer? virtual polygraph?
