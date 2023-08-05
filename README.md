@@ -277,7 +277,11 @@
 36. [g8keep](https://github.com/lyndskg/g8keep)
     - Generates list of things to do from sources on Internet given amt of time until event begins, location, cost of attendance / budget (i.e. max price) — as a %, weighted higher if less time til event begins, # of attendees, u and attendees’ interests, etc 
 37. [twinge](https://github.com/lyndskg/twinge)
-38. [swipe-right](https://github.com/lyndskg/swipe-right)
+    - Hinge algo enhancer
+39. [swipe-right](https://github.com/lyndskg/swipe-right)
+    - Tinder algo enhancer
+
+Id make one for Bumble but unfortunately i'm banned bc my friend used my acc to source illegal substances in a foreign city and some men got pissed and reported me. thanks simar 
 
 
 &nbsp;
