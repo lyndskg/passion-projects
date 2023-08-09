@@ -6,18 +6,18 @@
 1. [cybersec-suite](https://github.com/lyndskg/cybersec-suite)
 2. [phish-filibusterer](https://github.com/lyndskg/phish-filibusterer)
     - anti-phishing software. fuck zelle scams. gonna prevent them from happening (legally), but if it does: gonna get them back (legally), report them (legally), and penalize them (legally). 
-4. [your-pw-sucks](https://github.com/lyndskg/your-pw-sucks)
+3. [your-pw-sucks](https://github.com/lyndskg/your-pw-sucks)
     - use John the Ripper and other password crackers based on canonical common/vulnerable password lists to try and crack users' password(s) based on user-provided info
        - if password is crackable, guarantee that it will be safely disposed of; suggest far safer ones that are way better than Apple's random ass strong passwords
     - incorporate regex??
-6. [snoopy](https://github.com/lyndskg/snoopy)
+4. [snoopy](https://github.com/lyndskg/snoopy)
     - tracks any and all history once ML-trained alien keystroke is detected
     > - Recognizes and sets default  Keystrokes for default users
     > - starts recording keystroke pattern once unusual data begins occuring
     > - fine-tunes its model any time a statistically similar keystroke is used from that point on
     > - finalizes on 2nd alien keystroke and tells default user and allows them to name the alien keystroke after alien.
     > - Captures data of all this to prove to alien  
-8. [third-eye](https://github.com/lyndskg/third-eye)
+5. [third-eye](https://github.com/lyndskg/third-eye)
     - buzzword-activated camcorder for macOS
 
 &nbsp;
@@ -27,7 +27,7 @@
 ------
 
 ### Bots 
-12. [ChatGPT4Me](https://github.com/lyndskg/ChatGPT4Me)
+6. [ChatGPT4Me](https://github.com/lyndskg/ChatGPT4Me)
    - bespoke ChatGPT using GPT-3.5 tailored and fine-tuned using OpenAI's InstructGPT model
 7. [ChatGPT4Mac](https://github.com/lyndskg/ChatGPT4Mac)
    - ChatGPT desktop app for macOS
@@ -45,18 +45,18 @@
 ------
 
 ### Finance 
-13. [lyndseygupiao](https://github.com/lyndskg/lyndseygupiao)
+11. [lyndseygupiao](https://github.com/lyndskg/lyndseygupiao)
    - access da chinese stock market
-15. [spearmint](https://github.com/lyndskg/spearmint)
+12. [spearmint](https://github.com/lyndskg/spearmint)
    - budgeter app for macOS and iOS and deployed as web app. meant for ppl too stupid to use Mint (like me)
-23. [re-tired](https://github.com/lyndskg/re-tired)
+13. [re-tired](https://github.com/lyndskg/re-tired)
     - max 401k/Roth IRA contribution calculator
     - Inputs: household TC, annual/monthly salary, pay schedule, tax withholdings/exemptions and other W-9 info, age, # of dependents, state of residence/employment, state income tax
-24. [1-800-uncle-sam](https://github.com/lyndskg/1-800-uncle-sam)
+14. [1-800-uncle-sam](https://github.com/lyndskg/1-800-uncle-sam)
    - U.S. income tax (re)calculator, enabling users to adjust their annual total tax liability or calculate expected tax percentages for alternate revenue streams
-21. [reselling-fees](https://github.com/lyndskg/reselling-fees)
+15. [reselling-fees](https://github.com/lyndskg/reselling-fees)
    - GUI w/ calculator for Depop, Grailed, StockX, TheRealReal, Vestiare Collective, Poshmark, Mercari, eBay, etc.
-12. [fxck-karma](https://github.com/lyndskg/fxck-karma)
+16. [fxck-karma](https://github.com/lyndskg/fxck-karma)
    - "Can I afford this?"
    - considers net worth (and liquidity), annual salary or net profit, % tax bracket, state of employment/residence, Marginal and total utility of good calculated based on prev calculations, etc 
 17. [delivery-or-nah](https://github.com/lyndskg/delivery-or-nah)
@@ -73,13 +73,13 @@
 ------
 
 ### Optimization
-17. [IFTTT4PC](https://github.com/lyndskg/IFTTT4PC)
+19. [IFTTT4PC](https://github.com/lyndskg/IFTTT4PC)
   - IFTTT (if this then that) as a desktop app (macOS and later Windows)
-19. [auto-resy](https://github.com/lyndskg/auto-resy)
+20. [auto-resy](https://github.com/lyndskg/auto-resy)
   - user inputs restaurant, preferred time(s), etc and auto-resy will go on OpenTable, Tock, Resy, Yelp, or whatever to book 4 u
   - enhanced versions can use CC concierge services
-20. [TaskHive](https://github.com/lyndskg/TaskHive) (virtual taskrabbit employment platform)
-21. [ADHDExec](https://github.com/lyndskg/ADHDExec)
+21. [TaskHive](https://github.com/lyndskg/TaskHive) (virtual taskrabbit employment platform)
+22. [ADHDExec](https://github.com/lyndskg/ADHDExec)
   - tldr; life planner for ppl w ADHD
 
 &nbsp;
@@ -89,8 +89,8 @@
 ------
 
 ### Music
-25. [MetaMix](https://github.com/lyndskg/MetaMix) (update metadata on mixing software)
-26. idk what to call it but update metadata for audio tracks directly in Finder/Music on macOS
+23. [MetaMix](https://github.com/lyndskg/MetaMix) (update metadata on mixing software)
+24. idk what to call it but update metadata for audio tracks directly in Finder/Music on macOS
     - it's gotta be resilient enough to survive migration assistant
 28. [ytconv3rt3r](https://github.com/lyndskg/ytconv3rt3r) ![](https://geps.dev/progress/20)
     - convert youtube audio to any format; deployable as web app, desktop app (macOS as a dmg or via CLI or via Homebrew, Windows as a msi or via its own channels and toolkits)
