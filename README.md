@@ -35,7 +35,7 @@
    - a twitter chatbot based on GPT-3 and Replit that replies like your fav uwu or hentai girl. i couldn't think of anything better atm.
 9. [im-annoying-a-robot](https://github.com/lyndskg/im-annoying-a-robot)
    - aggregates all of the useful information in ChatGPT's responses in a convo thread
-10. [posh-a-matic](https://github.com/lyndskg/posh-a-matic) ![](https://geps.dev/progress/10)
+10. [posh-a-matic](https://github.com/lyndskg/posh-a-matic) ![](https://geps.dev/progress/80)
    - automates lots of tasks for Poshmark
 
 &nbsp;
