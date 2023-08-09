@@ -27,6 +27,7 @@
 ------
 
 ### Bots 
+
 6. [ChatGPT4Me](https://github.com/lyndskg/ChatGPT4Me)
    - bespoke ChatGPT using GPT-3.5 tailored and fine-tuned using OpenAI's InstructGPT model
 7. [ChatGPT4Mac](https://github.com/lyndskg/ChatGPT4Mac)
