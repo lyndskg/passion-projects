@@ -31,7 +31,7 @@
    - bespoke ChatGPT using GPT-3.5 tailored and fine-tuned using OpenAI's InstructGPT model
 7. [ChatGPT4Mac](https://github.com/lyndskg/ChatGPT4Mac)
    - ChatGPT desktop app for macOS
-8. [uwu-bot](https://github.com/lyndskg/uwu-bot)
+8. [uwu-bot](https://github.com/lyndskg/uwu-bot) ![](https://geps.dev/progress/30)
    - a twitter chatbot based on GPT-3 and Replit that replies like your fav uwu or hentai girl. i couldn't think of anything better atm.
 9. [im-annoying-a-robot](https://github.com/lyndskg/im-annoying-a-robot)
    - aggregates all of the useful information in ChatGPT's responses in a convo thread
