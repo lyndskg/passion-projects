@@ -37,7 +37,9 @@
 9. [im-annoying-a-robot](https://github.com/lyndskg/im-annoying-a-robot)
    - aggregates all of the useful information in ChatGPT's responses in a convo thread
 10. [posh-a-matic](https://github.com/lyndskg/posh-a-matic) ![](https://geps.dev/progress/80)
-   - automates lots of tasks for Poshmark
+   - automates lots of tasks for Poshmark using Selenium w/ Python and WebDriver API instances for web-scraping
+11. [d3p0pp3d](https://github.com/lyndskg/d3popp3d)
+  - automates lots of tasks for Depop using Selenium w/ Python and WebDriver API instances for web-scraping
 
 &nbsp;
 
