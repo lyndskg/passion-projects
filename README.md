@@ -48,25 +48,25 @@
 ------
 
 ### Finance 
-11. [lyndseygupiao](https://github.com/lyndskg/lyndseygupiao)
+12. [lyndseygupiao](https://github.com/lyndskg/lyndseygupiao)
    - access da chinese stock market
-12. [spearmint](https://github.com/lyndskg/spearmint)
+13. [spearmint](https://github.com/lyndskg/spearmint)
    - budgeter app for macOS and iOS and deployed as web app. meant for ppl too stupid to use Mint (like me)
-13. [re-tired](https://github.com/lyndskg/re-tired)
+14. [re-tired](https://github.com/lyndskg/re-tired)
     - max 401k/Roth IRA contribution calculator
     - Inputs: household TC, annual/monthly salary, pay schedule, tax withholdings/exemptions and other W-9 info, age, # of dependents, state of residence/employment, state income tax
-14. [1-800-uncle-sam](https://github.com/lyndskg/1-800-uncle-sam)
+15. [1-800-uncle-sam](https://github.com/lyndskg/1-800-uncle-sam)
    - U.S. income tax (re)calculator, enabling users to adjust their annual total tax liability or calculate expected tax percentages for alternate revenue streams
-15. [reselling-fees](https://github.com/lyndskg/reselling-fees)
+16. [reselling-fees](https://github.com/lyndskg/reselling-fees)
    - GUI w/ calculator for Depop, Grailed, StockX, TheRealReal, Vestiare Collective, Poshmark, Mercari, eBay, etc.
-16. [fxck-karma](https://github.com/lyndskg/fxck-karma)
+17. [fxck-karma](https://github.com/lyndskg/fxck-karma)
    - "Can I afford this?"
    - considers net worth (and liquidity), annual salary or net profit, % tax bracket, state of employment/residence, Marginal and total utility of good calculated based on prev calculations, etc 
-17. [delivery-or-nah](https://github.com/lyndskg/delivery-or-nah)
+18. [delivery-or-nah](https://github.com/lyndskg/delivery-or-nah)
    - self explanatory, but...
    - Checks price in-store vs Instacart/Uber Eats/Doordash/Gopuff/Shipt/Whatever tf to let you know if it’d be cheaper to buy in-store vs Instacart based on cart items (obv), state of residence to which groceries are to be delivered, tax rate of said state, user inputted tip in $ or % (defaults to a certain %), etc
     - Enhanced: time of day, day of week, hourly salary, Uber/lyft rates, roundtrip commute time (walk/bike/scooter/bus/train/car), weather (rainy or not), etc
-18. [classpass-or-nah](https://github.com/lyndskg/classpass-or-nah)
+19. [classpass-or-nah](https://github.com/lyndskg/classpass-or-nah)
    - uses web/data scraping and ML for what seems to be an easy decision. determines whether to book service/class using Classpass based on monthly subscription / per-credit cost, scrapes web for pricing of service direct from retailer/establishment
 
 &nbsp;
@@ -76,6 +76,7 @@
 ------
 
 ### Optimization
+
 19. [IFTTT4PC](https://github.com/lyndskg/IFTTT4PC)
   - IFTTT (if this then that) as a desktop app (macOS and later Windows)
 20. [auto-resy](https://github.com/lyndskg/auto-resy)
